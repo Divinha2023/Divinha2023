@@ -5,7 +5,7 @@
 </h1>
 
 
-<img align="center" width=100% height="350em" src="https://raw.githubusercontent.com/gist/Divinha2023/c309cec12fae8f32a26a17c892e497b5/raw/a4f871e8047342ca6a62c3a3f64acef7414812ed/Banner.svg"/>
+<img align="center" width=100% height="400em" src="https://raw.githubusercontent.com/gist/Divinha2023/b944327d582c86fbbf87fcd017e2dc45/raw/7b69175224521f1431cf970d74820be14f33b69c/Banner.svg"/>
 <h1 >
 
 
