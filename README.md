@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=100&lines=Bem-Vindo;+Me+chamo+Divanildo+Silva;Tenho+23+Anos+de+Idade;Moro++no+Brasil;Sou+Graduando+em+Análise+e+Desenvolvimento+de+Sistemas;Sou+Gamer+e+apaixonado+por+Tecnologia" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&lines=Bem-Vindo;+Me+chamo+Divanildo+Silva;Tenho+23+Anos+de+Idade;Moro++no+Brasil;Sou+Graduando+em+Análise+e+Desenvolvimento+de+Sistemas;Sou+Gamer+e+apaixonado+por+Tecnologia" />
 </h1>
 
 
