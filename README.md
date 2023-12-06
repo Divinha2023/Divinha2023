@@ -16,8 +16,7 @@
 </div>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&lines=Obrigado pela Atenção!" />
-</h1>
+
 
 
 
