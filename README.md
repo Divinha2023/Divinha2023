@@ -9,7 +9,7 @@
 
 
 
-<img align="center" width=100% height="600em" src="https://raw.githubusercontent.com/gist/Divinha2023/fcad9a779af432b8efadaefb9ba69d86/raw/dd1256d0cc63b63d663fe5c3b286c463564a7830/readme.svg"/>
+<img align="center" width=100% height="450em" src="https://raw.githubusercontent.com/gist/Divinha2023/fcad9a779af432b8efadaefb9ba69d86/raw/dd1256d0cc63b63d663fe5c3b286c463564a7830/readme.svg"/>
 <h1 >
 
 
