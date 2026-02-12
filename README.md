@@ -27,10 +27,6 @@
 
 
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Divinha2023&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=FFD700&bg_color=0d1117" alt="Divanildo Silva github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=FFFFFF&text_color=ffffff&bg_color=0d1117" />
-</div>
 
 
 
@@ -39,15 +35,9 @@
 
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Divinha2023&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-</div>
-<h2
 
 
-  <p align="center">
-  <a href="https://twitter.com/divanildosilva0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Divanildo Silva" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/divanildosimoesads/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divanildo Silva" height="30" width="40" /></a>
-  <a href="https://instagram.com/__.dsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Divanildo Silva" height="30" width="40" /></a>
+  
   
   
   
