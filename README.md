@@ -1,14 +1,23 @@
+
+<img width="1983" height="793" alt="BANNER README GITHUB" src="https://github.com/user-attachments/assets/14c3b6a9-710f-4ef1-8438-6ae6335de2af" />
+
+
+
+
+
+
+## Live Threat Map
+
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Divanildo | Software Developer" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=900&lines=Desenvolvedor+focado+em+solucoes+digitais;Codigo+limpo%2C+organizado+e+orientado+a+resultado;Backend%2C+Frontend%2C+Mobile+e+boas+praticas+de+engenharia)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Divinha2023-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divinha2023)
-[![Seguidores](https://img.shields.io/github/followers/Divinha2023?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=6D28D9)](https://github.com/Divinha2023?tab=followers)
-[![Visualizacoes](https://komarev.com/ghpvc/?username=Divinha2023&style=for-the-badge&color=9333EA&label=Profile+Views)](https://github.com/Divinha2023)
+<img width="100%" src="./threat-map.svg" alt="Live Threat Map" />
 
 </div>
+
+
+
+
+
 
 ---
 
