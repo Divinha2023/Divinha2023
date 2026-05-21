@@ -87,6 +87,16 @@ Minha abordagem combina aprendizado cont&iacute;nuo, organiza&ccedil;&atilde;o d
 
 ---
 
+## Live Threat Map
+
+<div align="center">
+
+<img width="100%" src="./threat-map.svg" alt="Live Threat Map" />
+
+</div>
+
+---
+
 ## Mapa de contribui&ccedil;&otilde;es
 
 <div align="center">

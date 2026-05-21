@@ -1,0 +1,23 @@
+name: Generate Live Threat Map
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate_threat_map:
+    runs-on: ubuntu-latest
+    name: Generate and Commit Live Threat Map
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate Threat Map SVG
+        uses: RavinduRathnayaka/LiveThreatMap-dashboard@main
+        with:
+          SHODAN_API_KEY: ${{ secrets.SHODAN_API_KEY }}

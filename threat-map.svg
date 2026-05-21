@@ -1,0 +1,98 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070A"/>
+      <stop offset="0.55" stop-color="#07110D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 310) rotate(44) scale(520 240)">
+      <stop stop-color="#7E22CE" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#7E22CE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .label { font-family: Consolas, "Courier New", monospace; fill: #F5F3FF; font-size: 16px; font-weight: 700; }
+      .small { font-family: Consolas, "Courier New", monospace; fill: #C4B5FD; font-size: 12px; font-weight: 600; }
+      .country { fill: none; stroke: #00B84A; stroke-width: 1.25; stroke-linejoin: round; opacity: 0.9; }
+      .route-purple { stroke: #C026D3; }
+      .route-cyan { stroke: #22D3EE; }
+      .route-yellow { stroke: #FACC15; }
+      .route-orange { stroke: #F97316; }
+      .route { fill: none; stroke-width: 1.6; stroke-dasharray: 5 9; opacity: 0.72; }
+      .dot { filter: url(#softGlow); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="620" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="620" rx="14" fill="url(#glowPurple)"/>
+
+  <g opacity="0.22">
+    <path d="M60 112H1140" stroke="#1F2937"/>
+    <path d="M60 202H1140" stroke="#1F2937"/>
+    <path d="M60 292H1140" stroke="#1F2937"/>
+    <path d="M60 382H1140" stroke="#1F2937"/>
+    <path d="M60 472H1140" stroke="#1F2937"/>
+    <path d="M180 52V568" stroke="#1F2937"/>
+    <path d="M360 52V568" stroke="#1F2937"/>
+    <path d="M540 52V568" stroke="#1F2937"/>
+    <path d="M720 52V568" stroke="#1F2937"/>
+    <path d="M900 52V568" stroke="#1F2937"/>
+    <path d="M1080 52V568" stroke="#1F2937"/>
+  </g>
+
+  <text x="74" y="72" class="label">LIVE THREAT MAP</text>
+  <text x="74" y="96" class="small">Source: Shodan API via GitHub Actions</text>
+  <text x="74" y="120" class="small">Status: fallback preview until SHODAN_API_KEY is configured</text>
+
+  <g class="country">
+    <path d="M163 220L126 246L110 304L138 350L199 368L244 338L270 285L248 240L204 213L163 220Z"/>
+    <path d="M232 366L270 408L286 474L320 542L354 510L340 438L306 390L272 352L232 366Z"/>
+    <path d="M424 182L470 144L548 154L590 210L568 272L502 298L438 272L398 222L424 182Z"/>
+    <path d="M548 302L612 326L646 392L622 478L560 492L514 442L492 362L548 302Z"/>
+    <path d="M612 176L678 132L780 148L836 210L820 286L742 318L660 282L602 228L612 176Z"/>
+    <path d="M778 318L856 302L928 336L972 398L940 462L854 472L792 430L760 364L778 318Z"/>
+    <path d="M930 214L1018 192L1104 238L1082 306L1008 320L946 284L930 214Z"/>
+    <path d="M926 482L1022 492L1090 540L1032 572L946 550L902 514L926 482Z"/>
+    <path d="M510 142L546 104L604 120L586 164L534 174L510 142Z"/>
+  </g>
+
+  <g>
+    <path class="route route-cyan" d="M188 290C320 200 438 210 548 246C672 286 780 332 904 362"/>
+    <path class="route route-purple" d="M210 318C376 342 462 420 586 390C714 358 840 244 1010 250"/>
+    <path class="route route-yellow" d="M316 500C414 392 510 322 636 302C736 286 836 314 944 394"/>
+    <path class="route route-orange" d="M520 220C670 174 790 178 946 250"/>
+    <path class="route route-cyan" d="M898 520C758 472 646 430 540 356C422 274 318 232 168 250"/>
+  </g>
+
+  <g>
+    <circle class="dot" cx="188" cy="290" r="5" fill="#22D3EE"/>
+    <circle class="dot" cx="548" cy="246" r="6" fill="#FACC15"/>
+    <circle class="dot" cx="904" cy="362" r="6" fill="#F97316"/>
+    <circle class="dot" cx="210" cy="318" r="4" fill="#C026D3"/>
+    <circle class="dot" cx="586" cy="390" r="7" fill="#22D3EE"/>
+    <circle class="dot" cx="1010" cy="250" r="5" fill="#C026D3"/>
+    <circle class="dot" cx="316" cy="500" r="5" fill="#FACC15"/>
+    <circle class="dot" cx="636" cy="302" r="7" fill="#FACC15"/>
+    <circle class="dot" cx="944" cy="394" r="6" fill="#F97316"/>
+    <circle class="dot" cx="520" cy="220" r="4" fill="#F97316"/>
+    <circle class="dot" cx="168" cy="250" r="5" fill="#22D3EE"/>
+    <circle class="dot" cx="898" cy="520" r="6" fill="#22D3EE"/>
+  </g>
+
+  <g>
+    <rect x="864" y="54" width="262" height="142" rx="10" fill="#111827" fill-opacity="0.86" stroke="#7E22CE" stroke-opacity="0.4"/>
+    <text x="884" y="84" class="label" font-size="14">RECENT THREATS</text>
+    <text x="884" y="112" class="small">152.32.214.165/N/A - Nigeria</text>
+    <text x="884" y="132" class="small">154.43.61.171/N/A - United Kingdom</text>
+    <text x="884" y="152" class="small">162.216.150.163/N/A - United States</text>
+    <text x="884" y="172" class="small">165.154.172.77/N/A - Hong Kong</text>
+  </g>
+
+  <text x="74" y="568" class="small">This file is automatically replaced by the Live Threat Map workflow after SHODAN_API_KEY is added.</text>
+</svg>
