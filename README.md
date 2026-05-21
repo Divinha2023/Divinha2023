@@ -4,8 +4,6 @@
 
 
 
-## Live Threat Map
-
 <div align="center">
 
 <img width="100%" src="./threat-map.svg" alt="Live Threat Map" />
