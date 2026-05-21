@@ -11,6 +11,23 @@
 
 
 
+
+
+
+
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+
+
+
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,html,laravel,java,css,php,vscode,github,git" />
+</div>
+<h2
+
+
+
 <img width="100%" src="./assets/profile-footer.svg" alt="Footer roxo do perfil" />
 
 </div>
+
+
