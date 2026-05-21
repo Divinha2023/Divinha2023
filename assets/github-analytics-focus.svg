@@ -1,0 +1,28 @@
+<svg width="860" height="180" viewBox="0 0 860 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="860" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.45" stop-color="#2E1065"/>
+      <stop offset="1" stop-color="#7E22CE"/>
+    </linearGradient>
+    <linearGradient id="line" x1="58" y1="130" x2="802" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D28D9"/>
+      <stop offset="0.5" stop-color="#E9D5FF"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="858" height="178" rx="20" fill="url(#bg)" stroke="#C084FC" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="430" y="52" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="850">Evolucao tecnica orientada a projetos reais</text>
+  <text x="430" y="82" text-anchor="middle" fill="#E9D5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Backend, frontend, mobile, documentacao e melhoria continua de codigo.</text>
+
+  <path d="M76 130H784" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="128" cy="130" r="9" fill="#C084FC"/>
+  <circle cx="328" cy="130" r="9" fill="#C084FC"/>
+  <circle cx="532" cy="130" r="9" fill="#C084FC"/>
+  <circle cx="732" cy="130" r="9" fill="#C084FC"/>
+
+  <text x="128" y="158" text-anchor="middle" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Codigo limpo</text>
+  <text x="328" y="158" text-anchor="middle" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Arquitetura</text>
+  <text x="532" y="158" text-anchor="middle" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">UX funcional</text>
+  <text x="732" y="158" text-anchor="middle" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Entrega continua</text>
+</svg>

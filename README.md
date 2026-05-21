@@ -76,12 +76,12 @@ Minha abordagem combina aprendizado cont&iacute;nuo, organiza&ccedil;&atilde;o d
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divinha2023&show_icons=true&theme=midnight-purple&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&bg_color=0D1117" alt="Estatisticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divinha2023&layout=compact&theme=midnight-purple&hide_border=true&title_color=C084FC&text_color=E9D5FF&bg_color=0D1117" alt="Linguagens mais usadas" />
+<img width="49%" src="./assets/github-analytics-overview.svg" alt="Resumo profissional do GitHub" />
+<img width="49%" src="./assets/github-analytics-stack.svg" alt="Stack principal do GitHub" />
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Divinha2023&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC" alt="GitHub streak" />
+<img width="70%" src="./assets/github-analytics-focus.svg" alt="Foco tecnico e evolucao profissional" />
 
 </div>
 

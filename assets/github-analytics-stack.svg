@@ -1,0 +1,32 @@
+<svg width="580" height="220" viewBox="0 0 580 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="580" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#21123D"/>
+      <stop offset="1" stop-color="#581C87"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="218" rx="18" fill="url(#cardBg)" stroke="#7E22CE" stroke-opacity="0.55" stroke-width="2"/>
+  <text x="32" y="54" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Stack principal</text>
+  <text x="32" y="82" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Tecnologias em evolucao continua.</text>
+
+  <text x="32" y="122" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Java</text>
+  <rect x="150" y="109" width="360" height="14" rx="7" fill="#1F1433"/>
+  <rect x="150" y="109" width="315" height="14" rx="7" fill="url(#bar)"/>
+
+  <text x="32" y="150" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">TypeScript</text>
+  <rect x="150" y="137" width="360" height="14" rx="7" fill="#1F1433"/>
+  <rect x="150" y="137" width="300" height="14" rx="7" fill="url(#bar)"/>
+
+  <text x="32" y="178" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">JavaScript</text>
+  <rect x="150" y="165" width="360" height="14" rx="7" fill="#1F1433"/>
+  <rect x="150" y="165" width="275" height="14" rx="7" fill="url(#bar)"/>
+
+  <text x="32" y="206" fill="#F5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">PHP / Laravel</text>
+  <rect x="150" y="193" width="360" height="14" rx="7" fill="#1F1433"/>
+  <rect x="150" y="193" width="230" height="14" rx="7" fill="url(#bar)"/>
+</svg>
