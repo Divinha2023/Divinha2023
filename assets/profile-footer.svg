@@ -1,0 +1,16 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2E1065"/>
+      <stop offset="0.5" stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="120" y1="60" x2="1080" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 42L50 46.8C100 51.7 200 61.3 300 58.2C400 55 500 39 600 38.5C700 38 800 53 900 58.3C1000 63.7 1100 59.3 1150 57.2L1200 55V120H0V42Z" fill="url(#footerBg)"/>
+  <path d="M120 82H1080" stroke="url(#shine)" stroke-width="2" stroke-linecap="round"/>
+</svg>
