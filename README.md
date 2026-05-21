@@ -22,12 +22,6 @@ Minha abordagem combina aprendizado cont&iacute;nuo, organiza&ccedil;&atilde;o d
 
 <div align="center">
 
-| Foco | Atua&ccedil;&atilde;o |
-| --- | --- |
-| **Backend** | Java, regras de neg&oacute;cio, APIs e organiza&ccedil;&atilde;o de camadas |
-| **Frontend** | Interfaces responsivas, componentiza&ccedil;&atilde;o e experi&ecirc;ncia do usu&aacute;rio |
-| **Mobile** | Desenvolvimento de aplica&ccedil;&otilde;es com TypeScript |
-| **Engenharia** | Git, documenta&ccedil;&atilde;o, boas pr&aacute;ticas e evolu&ccedil;&atilde;o de arquitetura |
 
 </div>
 
@@ -72,40 +66,10 @@ Minha abordagem combina aprendizado cont&iacute;nuo, organiza&ccedil;&atilde;o d
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="./assets/github-analytics-overview.svg" alt="Resumo profissional do GitHub" />
-<img width="49%" src="./assets/github-analytics-stack.svg" alt="Stack principal do GitHub" />
 
 <br><br>
 
 <img width="70%" src="./assets/github-analytics-focus.svg" alt="Foco tecnico e evolucao profissional" />
-
-</div>
-
----
-
-## Live Threat Map
-
-<div align="center">
-
-<img width="100%" src="./threat-map.svg" alt="Live Threat Map" />
-
-</div>
-
----
-
-## Mapa de contribui&ccedil;&otilde;es
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divinha2023/Divinha2023/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divinha2023/Divinha2023/output/github-contribution-grid-snake.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/Divinha2023/Divinha2023/output/github-contribution-grid-snake-dark.svg" alt="Mapa de contribuicoes do GitHub" />
-</picture>
 
 </div>
 
