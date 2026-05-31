@@ -7,14 +7,22 @@
 
 ## 🧠 Sobre mim
 
-Sou um estudante universitário apaixonado por tecnologia e desenvolvimento de software. Atualmente, tenho me aprofundado na criação de aplicações robustas utilizando arquitetura **MVC** e integração com inteligência artificial, como Google Gemini. Tenho experiência prática no desenvolvimento de sistemas **CRUD**, lógica de Programação Orientada a Objetos e bancos de dados em memória. 
+Sou estudante universitário, apaixonado por desenvolvimento de software e pela criação de soluções modernas, funcionais e bem estruturadas.
 
-Sempre em busca de interfaces modernas, tenho grande apreço por designs em *dark mode* e identidades visuais marcantes. Aqui no GitHub compartilho meus projetos universitários, estudos e experimentos que fazem parte da minha evolução constante na área de TI.
+Atualmente, venho me aprofundando no desenvolvimento de aplicações utilizando arquitetura MVC, Programação Orientada a Objetos, sistemas CRUD, bancos de dados em memória e integrações com inteligência artificial, como Google Gemini. Também tenho buscado evoluir constantemente no ecossistema Java, especialmente com Spring Boot, APIs REST e boas práticas de desenvolvimento.
+
+Além da parte técnica, tenho grande interesse por interfaces modernas, experiências intuitivas e identidades visuais marcantes, com preferência por designs em dark mode e layouts bem organizados.
+
+Aqui no GitHub compartilho meus projetos universitários, estudos práticos e experimentos que fazem parte da minha evolução como desenvolvedor.
+
 
 
 ## 🎯 Objetivo
 
-Busco aplicar meus conhecimentos técnicos em projetos desafiadores, evoluir minhas habilidades como desenvolvedor e contribuir com soluções eficientes, especialmente envolvendo ecossistemas modernos (como Spring Boot) e integrações inovadoras com IA.
+Busco aplicar meus conhecimentos em projetos desafiadores, desenvolver soluções eficientes e continuar evoluindo como desenvolvedor de software.
+
+Meu objetivo é aprimorar minhas habilidades técnicas, ganhar experiência prática com tecnologias modernas e contribuir em projetos que envolvam desenvolvimento backend, frontend, arquitetura de sistemas, bancos de dados e integrações inovadoras com inteligência artificial.
+
 
 ## 📫 Contatos
 
