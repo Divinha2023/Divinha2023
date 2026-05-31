@@ -4,7 +4,6 @@
 
 # 👋 Olá, me chamo Divanildo Simões!
 
----
 
 ## 🧠 Sobre mim
 
@@ -38,13 +37,6 @@ Busco aplicar meus conhecimentos técnicos em projetos desafiadores, evoluir min
 <h2
 
 <br>
-
-## 📊 Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-</div>
 
 <div align="center">
 
