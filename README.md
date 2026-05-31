@@ -43,8 +43,6 @@ Busco aplicar meus conhecimentos técnicos em projetos desafiadores, evoluir min
 
 <img width="100%" src="./threat-map.svg" alt="Live Threat Map" />
 
-<img width="100%" src="./assets/profile-footer.svg" alt="Footer roxo do perfil" />
 
-</div>
 
 
