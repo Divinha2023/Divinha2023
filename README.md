@@ -4,9 +4,6 @@
 
 # 👋 Olá, me chamo Divanildo Simões!
 
-💻 **Estudante & Desenvolvedor de Software**
-📍 Monteiro-PB
-
 ---
 
 ## 🧠 Sobre mim
