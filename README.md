@@ -21,6 +21,12 @@ Busco aplicar meus conhecimentos técnicos em projetos desafiadores, evoluir min
 * 📧 **E-mail:** Divanildosilva0@gmail.com
 * 💼 **LinkedIn:** https://www.linkedin.com/in/divanildosimoes/
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=Divinha2023&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Divinha2023&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divinha2023&theme=radical"/>
+</div>
+
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
