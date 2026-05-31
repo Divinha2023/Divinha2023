@@ -25,7 +25,6 @@ Busco aplicar meus conhecimentos técnicos em projetos desafiadores, evoluir min
 * 📧 **E-mail:** Divanildosilva0@gmail.com
 * 💼 **LinkedIn:** https://www.linkedin.com/in/divanildosimoes/
 
-## 🛠️ Linguagens e Tecnologias
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
