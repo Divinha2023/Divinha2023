@@ -11,10 +11,6 @@ Sou um estudante universitário apaixonado por tecnologia e desenvolvimento de s
 
 Sempre em busca de interfaces modernas, tenho grande apreço por designs em *dark mode* e identidades visuais marcantes. Aqui no GitHub compartilho meus projetos universitários, estudos e experimentos que fazem parte da minha evolução constante na área de TI.
 
-## 🎓 Formação
-
-* 🎓 Estudante Universitário (Graduação em andamento)
-* 💻 Estudos aprofundados em Programação Orientada a Objetos e Arquitetura de Sistemas
 
 ## 🎯 Objetivo
 
