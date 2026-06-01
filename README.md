@@ -9,9 +9,9 @@
 
 Sou estudante universitário, apaixonado por desenvolvimento de software e pela criação de soluções modernas, funcionais e bem estruturadas.
 
-Atualmente, venho me aprofundando no desenvolvimento de aplicações utilizando arquitetura MVC, Programação Orientada a Objetos, sistemas CRUD, bancos de dados em memória e integrações com inteligência artificial, como Google Gemini. Também tenho buscado evoluir constantemente no ecossistema Java, especialmente com Spring Boot, APIs REST e boas práticas de desenvolvimento.
+Atualmente, venho me aprofundando no desenvolvimento de aplicações utilizando arquitetura MVC, Programação Orientada a Objetos, sistemas CRUD, bancos de dados em memória e integrações com inteligência artificial. Também tenho buscado evoluir constantemente no ecossistema Java, especialmente com Spring Boot, APIs REST e boas práticas de desenvolvimento.
 
-Além da parte técnica, tenho grande interesse por interfaces modernas, experiências intuitivas e identidades visuais marcantes, com preferência por designs em dark mode e layouts bem organizados.
+Além da parte técnica, tenho grande interesse por interfaces modernas, experiências intuitivas e identidades visuais marcantes e layouts bem organizados.
 
 Aqui no GitHub compartilho meus projetos universitários, estudos práticos e experimentos que fazem parte da minha evolução como desenvolvedor.
 
