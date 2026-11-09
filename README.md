@@ -1,7 +1,4 @@
 
-<img width="1983" height="793" alt="BANNER README GITHUB" src="https://github.com/user-attachments/assets/14c3b6a9-710f-4ef1-8438-6ae6335de2af" />
-
-
 # 👋 Olá, me chamo Divanildo Simões!
 
 
