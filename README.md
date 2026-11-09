@@ -6,7 +6,7 @@
 
 Sou estudante universitário, apaixonado por desenvolvimento de software e pela criação de soluções modernas, funcionais e bem estruturadas.
 
-Atualmente, venho me aprofundando no desenvolvimento de aplicações utilizando arquitetura MVC, Programação Orientada a Objetos, sistemas CRUD, bancos de dados em memória e integrações com inteligência artificial. Também tenho buscado evoluir constantemente no ecossistema Java, especialmente com Spring Boot, APIs REST e boas práticas de desenvolvimento.
+Atualmente, venho me aprofundando no desenvolvimento de aplicações. Também tenho buscado evoluir constantemente no ecossistema Java, especialmente com Spring Boot, APIs REST e boas práticas de desenvolvimento.
 
 Além da parte técnica, tenho grande interesse por interfaces modernas, experiências intuitivas e identidades visuais marcantes e layouts bem organizados.
 
